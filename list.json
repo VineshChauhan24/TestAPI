@@ -2,7 +2,7 @@
   {
     "id": "template1",
     "name": "Happy Birthday",
-    "preview_url":"https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/happy_birthday.mp4_",
+    "preview_url":"https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/happy_birthday.mp4",
     "thumb_url": "https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/happy_birthday.jpg",
     "zip_url": "https://github.com/VineshChauhan24/TestAPI/raw/refs/heads/main/happy_birthday.zip"
   },
