@@ -12,5 +12,12 @@
     "preview_url":"https://github.com/VineshChauhan24/TestAPI/raw/refs/heads/main/video_2.mp4",
     "thumb_url": "https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/thumbnail_2.jpg",
     "zip_url": "https://github.com/VineshChauhan24/TestAPI/raw/refs/heads/main/template_2.zip"
+  },
+  {
+    "id": "template3",
+    "name": "Breakup Song",
+    "preview_url":"https://github.com/VineshChauhan24/TestAPI/raw/refs/heads/main/video_3.mp4",
+    "thumb_url": "https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/thumbnail_3.jpg",
+    "zip_url": "https://github.com/VineshChauhan24/TestAPI/raw/refs/heads/main/template_3.zip"
   }
 ]
