@@ -9,9 +9,9 @@
   {
     "id": "template2",
     "name": "Aahista Aahista Song",
-    "preview_url":"https://github.com/VineshChauhan24/TestAPI/raw/refs/heads/main/video_2.mp4",
+    "preview_url":"https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/video_2.mp4",
     "thumb_url": "https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/thumbnail_2.jpg",
-    "zip_url": "https://github.com/VineshChauhan24/TestAPI/raw/refs/heads/main/template_2.zip"
+    "zip_url": "https://raw.githubusercontent.com/VineshChauhan24/TestAPI/refs/heads/main/template_2.zip"
   },
   {
     "id": "template3",
